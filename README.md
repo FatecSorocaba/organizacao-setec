@@ -55,6 +55,14 @@ Espaço reservado para os alunos resolverem pequenos bugs (issues) em projetos o
 - Haverão diversos instrutores
 - Dia sugerido: sábado (encerramento da SETEC)
 
+## Divulgação
+
+- Apresentar nas salas semanas antes do evento;
+- Divulgar no site da Fatec e em outras faculdades;
+- Divulgar em Grupos da comunidade local no facebook;
+- Enviar convite para coordenadores de outras faculdades para divulgação;
+- Atualização do hotsite criado para divulgação do evento.
+
 ---
 
 Se você cursa algum outro curso na Fatec Sorocaba e deseja participar da organização da SETEC voltada para seu curso, envie um e-mail para: setecfatecso@gmail.com
