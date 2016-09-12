@@ -11,7 +11,7 @@ Para organizar a Semana da Tecnologia da Fatec Sorocaba você precisa de:
 
 ## Sobre o evento
 
-A Semana da Tecnologia ocorre todos os anos na Fatec Sorocaba e a partir de 2016 adota um modelo colaborativo onde os alunos e a comunidade organiza o evento em parceria com a direção da instituição, o objetivo é despertar o interesse dos alunos a participar do evento, engajando-os a contribuir com as atividades da comunidade e com futuras Semana da Tecnologias além de colocar a Fatec em foco com o intuito de atrair boas empresas para a cidade.
+A Semana da Tecnologia ocorre todos os anos na Fatec Sorocaba e a partir de 2016 adota um modelo colaborativo onde os alunos e a comunidade organiza o evento em parceria com a direção da instituição, o objetivo é despertar o interesse dos alunos a participar do evento, engajando-os a contribuir com as atividades da comunidade e com futuras Semanas da Tecnologia além de colocar a Fatec em foco com o intuito de atrair boas empresas para a cidade.
 
 ## Formato do evento
 
