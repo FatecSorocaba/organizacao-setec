@@ -1,8 +1,8 @@
-# Organização SETEC
+# Organização Semana da Tecnologia
 
 ## Como começar?
 
-Para organizar a Semana da Tecnologia da Fatec Sorocaba (SETEC) você precisa de:
+Para organizar a Semana da Tecnologia da Fatec Sorocaba você precisa de:
 
 - Vontade;
 - Palestrantes e professores voluntários;
@@ -11,14 +11,14 @@ Para organizar a Semana da Tecnologia da Fatec Sorocaba (SETEC) você precisa de
 
 ## Sobre o evento
 
-A SETEC ocorre todos os anos na Fatec Sorocaba e a partir de 2016 adota um modelo colaborativo onde os alunos e a comunidade organiza o evento em parceria com a direção da instituição, o objetivo é despertar o interesse dos alunos a participar do evento, engajando-os a contribuir com as atividades da comunidade e com futuras SETECs além de colocar a Fatec em foco com o intuito de atrair boas empresas para a cidade.
+A Semana da Tecnologia ocorre todos os anos na Fatec Sorocaba e a partir de 2016 adota um modelo colaborativo onde os alunos e a comunidade organiza o evento em parceria com a direção da instituição, o objetivo é despertar o interesse dos alunos a participar do evento, engajando-os a contribuir com as atividades da comunidade e com futuras Semanas da Tecnologia além de colocar a Fatec em foco com o intuito de atrair boas empresas para a cidade.
 
 ## Formato do evento
 
 As atrações do evento são:
 
-- Palestras 
-- Minicursos 
+- Palestras
+- Minicursos
 - Mesa redonda no formato Fish Bowl
 - Comitão
 
@@ -44,7 +44,7 @@ Os minicursos são realizados por professores e vountários e geralmente tem dur
 
 - É uma forma de diálogo que permite que todo o grupo participe de uma discussão.
 - Quatro a cinco cadeiras estão dispostas em um círculo interno, uma cadeira é deixada vazia.
-- Qualquer membro do público pode, a qualquer momento, ocupar a cadeira vazia. Quando isso acontece, um membro do grupo deve voluntariamente liberar uma cadeira. 
+- Qualquer membro do público pode, a qualquer momento, ocupar a cadeira vazia. Quando isso acontece, um membro do grupo deve voluntariamente liberar uma cadeira.
 
 ### Comitão (ADS)
 
@@ -53,7 +53,7 @@ Espaço reservado para os alunos resolverem pequenos bugs (issues) em projetos o
 - Será realizado nos laboratórios
 - Os bugs a serem resolvidos serão levantados previamente pela organização
 - Haverão diversos instrutores
-- Dia sugerido: sábado (encerramento da SETEC)
+- Dia sugerido: sábado (encerramento da Semana da Tecnologia)
 
 ## Divulgação
 
@@ -65,4 +65,4 @@ Espaço reservado para os alunos resolverem pequenos bugs (issues) em projetos o
 
 ---
 
-Se você cursa algum outro curso na Fatec Sorocaba e deseja participar da organização da SETEC voltada para seu curso, envie um e-mail para: setecfatecso@gmail.com
+Se você cursa algum outro curso na Fatec Sorocaba e deseja participar da organização da Semana da Tecnologia voltada para seu curso, envie um e-mail para: setec@gmail.com
