@@ -65,4 +65,4 @@ Espaço reservado para os alunos resolverem pequenos bugs (issues) em projetos o
 
 ---
 
-Se você cursa algum outro curso na Fatec Sorocaba e deseja participar da organização da Semana da Tecnologia voltada para seu curso, envie um e-mail para: setec@gmail.com
+Se você cursa algum outro curso na Fatec Sorocaba e deseja participar da organização da Semana da Tecnologia voltada para seu curso, envie um e-mail para [setecfatecso@gmail.com](mailto:setecfatecso@gmail.com) ou fale pessoalmente com algum [membro da organização](https://github.com/orgs/FatecSorocaba/people) na Fatec.
